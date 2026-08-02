@@ -8,5 +8,6 @@ for i in range(1,n + 1):
             print(" ", end="")
             s = s + 1
     print("") 
+printf("Super cool !")
     
 
